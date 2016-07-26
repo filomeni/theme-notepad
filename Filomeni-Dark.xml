@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <!--//
 
-Style name:  VS2015 Dark Theme for Notepad++
-Author:      Erdin Kacan
-Description: A close replica of the Visual Studio 2015 "Dark" theme in Notepad++. Forked from https://github.com/SeanCline/Npp-VS2012-Dark 
+Style name:  filomeni Dark Theme for Notepad++
+Author:      Filomeni Maurizio
+Description: A close replica of the Visual Studio 2015 "Dark" theme in Notepad++. Forked from https://github.com/filomeni/theme-notepad
 Languages:   C, C++, C#, Java, XML, but should work with many others.
 Note:        I don't claim any ownership of this theme. It is merely a replica of another.
 
