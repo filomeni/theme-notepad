@@ -750,4 +750,5 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         <WidgetStyle name="Active tab text" styleID="0" fgColor="000000" fontStyle="0" bgColor="C0C0C0" />
         <WidgetStyle name="Inactive tabs" styleID="0" fgColor="808080" bgColor="C0C0C0" fontStyle="0" />
     </GlobalStyles>
+    
 </NotepadPlus>
